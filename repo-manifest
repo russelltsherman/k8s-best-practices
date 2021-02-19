@@ -1,1 +1,8 @@
-brendandburns/kbp-sample
+###############################################################################
+# git repo manifest
+# 
+# one repo per line
+# 
+# {remote_repo_url} {local_repo}
+###############################################################################
+git@github.com:brendandburns/kbp-sample.git kbp-sample
